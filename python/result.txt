@@ -1,1 +1,2 @@
-chapter-01 [BinaryGap] : https://app.codility.com/demo/results/training846AZK-AJW/
+Lesson-01 [Iterations - BinaryGap] : https://app.codility.com/demo/results/training846AZK-AJW/
+Lesson-02 [Arrays - CyclicRotation] : https://app.codility.com/demo/results/trainingVJXA2S-EN4/
