@@ -1,2 +1,3 @@
 Lesson-01 [Iterations - BinaryGap] : https://app.codility.com/demo/results/training846AZK-AJW/
-Lesson-02 [Arrays - CyclicRotation] : https://app.codility.com/demo/results/trainingVJXA2S-EN4/
+Lesson-02 [Arrays - CyclicRotation] : https://app.codility.com/demo/results/trainingFYP34Q-2N6/
+Lesson-02 [Arrays - OddOccurrencesInArray] : https://app.codility.com/demo/results/training7UP799-BZG/
